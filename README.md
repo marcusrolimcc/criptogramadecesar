@@ -21,3 +21,5 @@ No caso dos números eles deverão ser decrementados em três dígitos. Por exem
 Programa foi construido para trabalho da matéria algoritmo e estrutura de dados do terceiro semestre de ciência da computação.
 
 Entregue dia 28/05/2020
+
+Explicação passo a passo em meu blog: https://www.marcusrolim.com.br/criptograma-de-cesar-algoritmo-criptografia/
